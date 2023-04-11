@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/AWS-IAM-important?style=for-the-badge&logo=python&logoColor=orange)](https://aws.amazon.com/iam/) 
 [![](https://img.shields.io/badge/Tableau-00b48a?style=for-the-badge&logo=tableau&logoColor=)](https://public.tableau.com/app/profile/vani.bhat8387) 
 
-In his project, I have built a California housing market application to ease the process of housing property search for the customers based on their preferred buying criteria by predicting the house prices. I also bring out the idea of how house/property values are influenced by the presence of public schools with higher ranking in the region.
+I developed a California housing market application as part of his project, which streamlines the process of finding the ideal property by utilizing predictive analytics to determine the prices of houses based on customer's specific buying criteria. Additionally, I introduced the concept of how the presence of top-rated public schools in the vicinity can positively impact property values, further enhancing the utility of the application.
 
 
 
