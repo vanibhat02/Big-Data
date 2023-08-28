@@ -1,7 +1,6 @@
 
 # California house price prediction model using AWS
 
-
 [![](https://img.shields.io/badge/Python-00b48a?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org) 
 [![](https://img.shields.io/badge/AWS-S3-important?style=for-the-badge&logo=python&logoColor=orange)](https://aws.amazon.com/s3/) 
 [![](https://img.shields.io/badge/AWS-CloudFormation-important?style=for-the-badge&logo=python&logoColor=orange)](https://aws.amazon.com/cloudformation/) 
