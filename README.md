@@ -10,9 +10,9 @@
 [![](https://img.shields.io/badge/AWS-IAM-important?style=for-the-badge&logo=python&logoColor=orange)](https://aws.amazon.com/iam/) 
 [![](https://img.shields.io/badge/Tableau-00b48a?style=for-the-badge&logo=tableau&logoColor=)](https://public.tableau.com/app/profile/vani.bhat8387) 
 
-## Introduction
+## Objective
 
-Developed a California housing market application as part of his project, which streamlines the process of finding the ideal property by utilizing predictive analytics to determine the prices of houses based on customer's specific buying criteria. Additionally, I introduced the concept of how the presence of top-rated public schools in the vicinity can positively impact property values, further enhancing the utility of the application.
+The project's primary objective is to create a user-friendly platform that eases property searches for potential buyers in California. Leveraging predictive analytics, the application assists users in finding their ideal property by considering various filters such as city, zip code, bed and bath count, and price range. Moreover, it introduces the concept of how the presence of highly-rated public schools nearby can positively influence property values, adding further value to the application. By incorporating data on nearby public and private schools, the application offers insights into educational options for residents. With a cloud-based web development platform (Wix), the project aims to enhance the property search experience and empower users to make well-informed decisions.
 
 
 
